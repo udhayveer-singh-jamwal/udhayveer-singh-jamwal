@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Udhayveer Singh Jamwal
+# 👋 Hey, I'm Udhayveer Singh Jamwal
 
 🎓 B.Tech CSE (3rd Semester)  
 📊 Aspiring Data Analyst | Learning AI/ML  
