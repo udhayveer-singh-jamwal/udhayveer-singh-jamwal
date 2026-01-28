@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Udhayveer Singh Jamwal
 
-🎓 B.Tech CSE (3rd Semester)  
+🎓 B.Tech CSE (4th Semester)  
 📊 Aspiring Data Analyst | Learning AI/ML  
 💻 Skills: Excel | SQL | Power BI 
 🚀 Building data analytics & dashboard projects  
